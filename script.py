@@ -4,8 +4,10 @@
 #version: 1.0.0
 
 def main():
-    print ("Hola Mundo!")
-    
-    if _name_=="_main":
+    print ("cual es tu nombre")
+    pinnt ("hola",nombre, "Bienvenido a git!")
+
+
+    if _name_=="_main_":
         
         main()
